@@ -9,7 +9,7 @@
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_1/"
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_1"
       },
       "last_updated": "1731456000"
     },
@@ -17,7 +17,7 @@
       "title": "Chapter 2",
       "volume": "1",
       "groups": {
-        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_2/"
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_2"
       },
       "last_updated": "1731542400"
     },
@@ -25,7 +25,7 @@
       "title": "Chapter 18",
       "volume": "1",
       "groups": {
-        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_18/"
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/wl7ljjg9qyx"
       },
       "last_updated": "1731628800"
     }
