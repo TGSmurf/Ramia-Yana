@@ -11,7 +11,7 @@
       "groups": {
         "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_1"
       },
-      "last_updated": "1731456000"
+      "last_updated": "1730000100"
     },
     "2": {
       "title": "Chapter 2",
@@ -19,7 +19,127 @@
       "groups": {
         "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_2"
       },
-      "last_updated": "1731542400"
+      "last_updated": "1730000200"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_3"
+      },
+      "last_updated": "1730000300"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_4"
+      },
+      "last_updated": "1730000400"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_5"
+      },
+      "last_updated": "1730000500"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_6"
+      },
+      "last_updated": "1730000600"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_7"
+      },
+      "last_updated": "1730000700"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_8"
+      },
+      "last_updated": "1730000800"
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_9"
+      },
+      "last_updated": "1730000900"
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_10"
+      },
+      "last_updated": "1730001000"
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_11"
+      },
+      "last_updated": "1730001100"
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_12"
+      },
+      "last_updated": "1730001200"
+    },
+    "13": {
+      "title": "Chapter 13",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_13"
+      },
+      "last_updated": "1730001300"
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_14"
+      },
+      "last_updated": "1730001400"
+    },
+    "15": {
+      "title": "Chapter 15",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_15"
+      },
+      "last_updated": "1730001500"
+    },
+    "16": {
+      "title": "Chapter 16",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_16"
+      },
+      "last_updated": "1730001600"
+    },
+    "17": {
+      "title": "Chapter 17",
+      "volume": "1",
+      "groups": {
+        "Golden S Atelier": "/proxy/api/imgchest/chapter/ID_ALBUM_CHAP_17"
+      },
+      "last_updated": "1730001700"
     },
     "18": {
       "title": "Chapter 18",
@@ -27,7 +147,7 @@
       "groups": {
         "Golden S Atelier": "/proxy/api/imgchest/chapter/wl7ljjg9qyx"
       },
-      "last_updated": "1731628800"
+      "last_updated": "1730001800"
     }
   }
 }
